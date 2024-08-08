@@ -4,7 +4,7 @@ import (
   "flag"
   "time"
   "log"
-  "github.com/harrytruong/gtfs-sqlite/gtfsconv"
+  "github.com/vrodic/gtfs-sqlite/gtfsconv"
 )
 
 // opt: runtime config container
